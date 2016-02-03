@@ -1,0 +1,18 @@
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\bin\Release\Desktop Controller.exe.config
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\bin\Release\Desktop Controller.exe
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\bin\Release\Desktop Controller.pdb
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\bin\Release\libpxcclr.cs.dll
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\MainWindow.g.cs
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\App.g.cs
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller_MarkupCompile.cache
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller_MarkupCompile.lref
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\MainWindow.baml
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.g.resources
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop_Controller.Properties.Resources.resources
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.csproj.GenerateResource.Cache
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.exe
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.pdb
+d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.csprojResolveAssemblyReference.cache
+D:\Library\Documents\Visual Studio 2015\Projects\Desktop Controller [TC]\Desktop Controller\bin\Release\Desktop Controller.exe.config
+D:\Library\Documents\Visual Studio 2015\Projects\Desktop Controller [TC]\Desktop Controller\obj\Release\Desktop Controller.exe
+D:\Library\Documents\Visual Studio 2015\Projects\Desktop Controller [TC]\Desktop Controller\obj\Release\Desktop Controller.pdb
