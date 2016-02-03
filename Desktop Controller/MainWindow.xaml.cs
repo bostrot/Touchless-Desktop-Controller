@@ -19,7 +19,7 @@ using TouchlessControllerConfiguration = PXCMTouchlessController.ProfileInfo.Con
 using FF_TouchlessControllerViewer.cs;
 
 namespace Desktop_Controller
-{
+{ 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
