@@ -16,3 +16,6 @@ d:\library\documents\visual studio 2015\Projects\Desktop Controller\Desktop Cont
 D:\Library\Documents\Visual Studio 2015\Projects\Desktop Controller [TC]\Desktop Controller\bin\Release\Desktop Controller.exe.config
 D:\Library\Documents\Visual Studio 2015\Projects\Desktop Controller [TC]\Desktop Controller\obj\Release\Desktop Controller.exe
 D:\Library\Documents\Visual Studio 2015\Projects\Desktop Controller [TC]\Desktop Controller\obj\Release\Desktop Controller.pdb
+C:\Users\errec\Source\Repos\Touchless Desktop Controller\Desktop Controller\bin\Release\Desktop Controller.exe.config
+C:\Users\errec\Source\Repos\Touchless Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.exe
+C:\Users\errec\Source\Repos\Touchless Desktop Controller\Desktop Controller\obj\Release\Desktop Controller.pdb
