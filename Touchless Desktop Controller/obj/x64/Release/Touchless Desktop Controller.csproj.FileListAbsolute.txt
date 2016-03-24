@@ -1,0 +1,15 @@
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\x64\Release\Touchless Desktop Controller.exe.config
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\x64\Release\Touchless Desktop Controller.exe
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\x64\Release\Touchless Desktop Controller.pdb
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\x64\Release\libpxcclr.cs.dll
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller.csprojResolveAssemblyReference.cache
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\MainWindow.g.cs
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\App.g.cs
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller_MarkupCompile.cache
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller_MarkupCompile.lref
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\MainWindow.baml
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller.g.resources
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless_Desktop_Controller.Properties.Resources.resources
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller.csproj.GenerateResource.Cache
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller.exe
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\x64\Release\Touchless Desktop Controller.pdb

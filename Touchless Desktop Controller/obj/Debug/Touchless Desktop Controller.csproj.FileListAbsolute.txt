@@ -1,0 +1,15 @@
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\Debug\Touchless Desktop Controller.exe.config
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\Debug\Touchless Desktop Controller.exe
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\Debug\Touchless Desktop Controller.pdb
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\bin\Debug\libpxcclr.cs.dll
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller.csprojResolveAssemblyReference.cache
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\MainWindow.g.cs
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\App.g.cs
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller_MarkupCompile.cache
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller_MarkupCompile.lref
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\MainWindow.baml
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller.g.resources
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless_Desktop_Controller.Properties.Resources.resources
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller.csproj.GenerateResource.Cache
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller.exe
+D:\Projects\Touchless Desktop Controller\Touchless Desktop Controller\obj\Debug\Touchless Desktop Controller.pdb
