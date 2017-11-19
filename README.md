@@ -1,4 +1,5 @@
-This repo is deprecated due to my broken camera. I will not continue this until I have a new one.
+#This repo is deprecated due to my broken camera. I will not continue this until I have a new one.
+
 #Touchless-Desktop-Controller
 
 Control your computer with your hands without touching the mouse. Developed for the Intel RealSense F200. Watch this video for further informations: https://www.youtube.com/watch?v=Of0DdvOG1lA
