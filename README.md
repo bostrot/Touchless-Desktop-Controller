@@ -11,3 +11,13 @@ In order to use this software you have to install the Intel Runtime SDK (R5 or h
 Control a whole game with your hands by adding a second hand control
 
 Speech to text to communicate in-game
+
+## Help
+
+You are welcome to contribute with pull requests, bug reports, ideas and donations.
+
+Bitcoin: [1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM](https://www.blockchain.com/btc/payment_request?address=1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM&currency=USD&nosavecurrency=true&message=Bostrot)
+
+PayPal: [paypal.me/bostrot](https://paypal.me/bostrot)
+
+Hosting: [2.50$ VPS at VULTR](https://www.vultr.com/?ref=7505919)
